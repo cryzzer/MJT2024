@@ -2,7 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea
 
 ### Eclipse ###
 .apt_generated
@@ -28,4 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/3_Java_OOP.iml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/untitled.iml
+/.idea/vcs.xml
+/.idea/uiDesigner.xml
