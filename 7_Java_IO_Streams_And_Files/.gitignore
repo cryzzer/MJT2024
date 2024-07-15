@@ -1,0 +1,52 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+/.idea/.gitignore
+/.gitignore
+/7_Java_IO_Streams_And_Files.iml
+/lib/apiguardian-api-1.1.2.jar
+/lib/byte-buddy-1.14.15.jar
+/lib/byte-buddy-agent-1.14.15.jar
+/.idea/codeStyles/codeStyleConfig.xml
+/lib/junit-jupiter-5.8.1.jar
+/lib/junit-jupiter-api-5.8.1.jar
+/lib/junit-jupiter-engine-5.8.1.jar
+/lib/junit-jupiter-params-5.8.1.jar
+/lib/junit-platform-commons-1.8.1.jar
+/lib/junit-platform-engine-1.8.1.jar
+/.idea/misc.xml
+/lib/mockito-core-5.12.0.jar
+/lib/mockito-junit-jupiter-5.12.0.jar
+/.idea/libraries/mockito_core.xml
+/.idea/libraries/mockito_junit_jupiter.xml
+/.idea/modules.xml
+/lib/objenesis-3.3.jar
+/lib/opentest4j-1.2.0.jar
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
